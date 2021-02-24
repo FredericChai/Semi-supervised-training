@@ -16,10 +16,10 @@ Please see example in the recipes for the code.
 ## Result on ImageCLEF2016
 |     Percentage of labels (%)     | Accuracy ↓ (%) |
 |:--------------:|:----------------:|
-| 25% |  76.3    |
-| 50% | 79.8  |
-| 75% |  80.2 |
-| 90%  |  84.8 |
-| 100%  |  86.8 |
+| 10% |  76.3    |
+| 25% | 79.8  |
+| 50% |  79.2 |
+| 75%  |  82.1 |
+
 
 
