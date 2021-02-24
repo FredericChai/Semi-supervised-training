@@ -16,8 +16,8 @@ Please see example in the recipes for the code.
 ## Result on ImageCLEF2016
 |     Percentage of labels (%)     | Accuracy ↓ (%) |
 |:--------------:|:----------------:|
-| 10% |  76.3    |
-| 25% | 79.8  |
+| 10% |  74.3    |
+| 25% | 76.8  |
 | 50% |  79.2 |
 | 75%  |  82.1 |
 
