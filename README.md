@@ -20,6 +20,7 @@ Please see example in the recipes for the code.
 | 25% | 76.8  |
 | 50% |  79.2 |
 | 75%  |  82.1 |
+|Supervised training| 83.4 |
 
 
 
